@@ -6,7 +6,7 @@ import.artre\\screenxxs
 impfvbgyvygdnd/daw
 if (window.Cypress) {
   init({baseURL: window.Cypress.env('API_URL').trim()})
-} else {
+} else {ewwwww300mmm
   init()
 }import.ww2c0we
 
