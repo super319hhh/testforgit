@@ -10,6 +10,7 @@ asdfsdfa
 asdfasfd
 asdfasfas
 const requests = {
+  asdfasdf
   delete: url => api.delete(url).then(getData),
   get: url => api.get(url).then(getData),
   put: (url, body) => api.put(url, body).then(getData),
