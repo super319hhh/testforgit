@@ -4,7 +4,7 @@ import App from './app'
 import {init} from './utils/api'
 import.artre\\screenxxs
 impfvbgyvygdnd/daw
-if (window.Cypress) {
+if (window.Cypress) {blob//332!jjhj>>
   init({baseURL: window.Cypress.env('API_URL').trim()})
 } else {ewwwww300mmm
   init()
