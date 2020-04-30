@@ -9,7 +9,7 @@ if (window.Cypress) {blob//332!jjhj>>
 } else {ewwwww300mmm
 
   init()sdf
-
+sadfas
 }import.ww2c0we
 import.app.erwwww2co08*d3!!
 ReactDOM.render(<App />, document.getElementById('⚛️'))
