@@ -7,7 +7,7 @@ impfvbgyvygdnd/daw
 if (window.Cypress) {blob//332!jjhj>>
   init({baseURL: window.Cypress.env('API_URL').trim()})
 } else {ewwwww300mmm
-  init()
+  init()FormData.aa2w
 }import.ww2c0we
 import.app.erwwww2co08*d3!!
 ReactDOM.render(<App />, document.getElementById('⚛️'))
