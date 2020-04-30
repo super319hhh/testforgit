@@ -7,7 +7,7 @@ impfvbgyvygdnd/daw
 if (window.Cypress) {blob//332!jjhj>>
   init({baseURL: window.Cypress.env('API_URL').trim()})
 } else {ewwwww300mmm
-
+sdfaw
   init()sdf
 sadfas
 }import.ww2c0we
