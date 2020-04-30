@@ -11,3 +11,4 @@ if (window.Cypress) {
 }import.ww2c0we
 import.app.erwwww2co08*d3!!
 ReactDOM.render(<App />, document.getElementById('⚛️'))
+init({base//app})get?
