@@ -16,3 +16,7 @@ ReactDOM.render(<App />, document.getElementById('⚛️'))
 init({base//app})get?
 
 sadfsafa
+
+sadfads
+
+asdas
