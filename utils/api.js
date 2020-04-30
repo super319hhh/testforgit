@@ -9,6 +9,7 @@ let a = 1
 asdfsdfa
 asdfasfd
 asdfasfas
+asdfasf
 const requests = {
   asdfasdf
   delete: url => api.delete(url).then(getData),
