@@ -9,6 +9,6 @@ if (window.Cypress) {
   init({baseURL: window.Cypress.env('API_URL').trim()})
 } else {
   init()
-}
+}import.ww2c0we
 
 ReactDOM.render(<App />, document.getElementById('⚛️'))
